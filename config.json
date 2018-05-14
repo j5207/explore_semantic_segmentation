@@ -1,0 +1,6 @@
+{
+  "pascal":
+  {
+    "data_path": "/dataset/pascal/VOCdevkit/VOC2012/"
+  }
+}
